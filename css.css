@@ -1,0 +1,29 @@
+body, html { 
+		    width: 100%;
+		    height: 100%;
+		    margin: 0;
+		    padding: 0;
+		    overflow: hidden;
+			}
+			
+
+#background {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            left: 0px;
+            top: 0px;
+			z-index : -1;
+        }
+
+#game {
+	outline: #00FF00 dotted thick;
+    width: 800px;
+	height: 600px;
+    position: absolute;
+    top:15px;
+    bottom: 15px;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
