@@ -145,6 +145,7 @@ function main() {
     var img = new Image();
     img.src = "https://lh5.googleusercontent.com/a41uksI9BPJfrZmml73X3q7WkQHxdd9qg7LgNYfG9xZ7LvPbYrY9i70QEcp9EZdq1TM=w2400";
     img.crossOrigin = "Anonymous";
+//images stored on my google drive temporly
     img.addEventListener("load", function() {
 
         aliensSprite = [
