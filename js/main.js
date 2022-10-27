@@ -135,15 +135,15 @@ function main() {
 	frameSpeed = 35;
 
     var sweetimg = new Image();
-    sweetimg.src = "images/sweet.png";
+   sweetimg.src = "https://lh6.googleusercontent.com/pugy6eSkQLWdduDkcqvJmLthBokw3zlrH52VHWXsmr1AZF3HurMTrzthB71JhKyap2k=w2400";
     sweetimg.crossOrigin = "Anonymous";
 
     var lifeimg = new Image();
-    lifeimg.src = "images/life.png";
+    lifeimg.src = "https://lh3.googleusercontent.com/ipksy5OyDzUjQOYGPzB0nE-YTb5Q-33ot2QEOXMiH-HufwhNPuvyiqENWB8buhhk_6s=w2400";
     lifeimg.crossOrigin = "Anonymous";
 
     var img = new Image();
-    img.src = "images/pic.png";
+    img.src = "https://lh5.googleusercontent.com/a41uksI9BPJfrZmml73X3q7WkQHxdd9qg7LgNYfG9xZ7LvPbYrY9i70QEcp9EZdq1TM=w2400";
     img.crossOrigin = "Anonymous";
     img.addEventListener("load", function() {
 
